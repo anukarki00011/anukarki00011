@@ -1,6 +1,6 @@
 <div align="center">
 
-# Anu Karki
+# Anurani Karki
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=7C6FF2&center=true&vCenter=true&width=750&lines=Mobile+App+Developer;Web+Developer;AI%2FML+Explorer;Flutter+%7C+React+%7C+Node.js+%7C+Python;I+build%2C+break%2C+learn+%26+build+again." alt="Typing SVG" />
 
